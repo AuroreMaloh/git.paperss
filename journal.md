@@ -8,6 +8,9 @@ This is a very important problem that I have been working on.
 Here are some really cool results I found.
 Here is another result I found but is not as cool as the first result.
 
+#Figures 
+Here are my figures that look really good and have a lot of detail in them. 
+
 #References
 Smith, J (2020)
 
